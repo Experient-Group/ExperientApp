@@ -37,4 +37,4 @@ This command will move the starter code to the **app-example** directory and cre
 
 ## Start Contributing
 
-Please checkout the Contrbiuting Section for more information
+Please checkout the Contributing Section for more information
