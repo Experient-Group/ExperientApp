@@ -1,0 +1,22 @@
+export const mockResponse = {
+  accessToken: "mockaccesstoken",
+  refreshToken: "mockrefreshtoken",
+  user: {
+    username: "VShah",
+    active: true,
+    roleId: 20,
+    dateCreated: "2018-03-02T00:00:00.000Z",
+    dateModified: "2018-03-02T00:00:00.000Z",
+    lastName: "Shah",
+    firstName: "Viraj",
+    displayName: "Viraj Shah",
+    jiraUsername: "viraj.shah",
+    intacctUserId: "EE-00112",
+    userId: 41,
+    emailAddress: "vshah@experient.com",
+    openAtCurWeeksTimesheet: true,
+    activeInterviewer: true,
+    createIntacctTimesheet: true,
+    roleName: "Developer",
+  },
+};
